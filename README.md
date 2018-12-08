@@ -1,0 +1,2 @@
+# bmaplib.textoverlay
+map baidu
